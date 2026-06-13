@@ -4,7 +4,7 @@ import { fetchDashboardStats, fetchAnalyticsSummary, fetchRetention, fetchBroadc
 import { formatToman } from '../utils/helpers';
 import {
   TrendingUp, Clock, AlertTriangle, ShoppingCart, CheckCircle2, XCircle,
-  Package, MessageCircle, BarChart3, PieChart, Send, Instagram, Filter, Trophy, Repeat, Megaphone
+Package, MessageCircle, BarChart3, PieChart, Send, Camera as Instagram, Filter, Trophy, Repeat, Megaphone
 } from 'lucide-react';
 
 // ─── Daily sales trend (native SVG/Tailwind bar chart) ───────────────────────
