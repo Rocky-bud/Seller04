@@ -1,5 +1,5 @@
 import { useNavigate } from 'react-router-dom';
-import { X, Send, Instagram } from 'lucide-react';
+import { X, Send, Camera as Instagram } from 'lucide-react';
 import { useNotificationCenter } from '../contexts/NotificationContext';
 
 // STAGE 34 -- lightweight Tailwind toast stack, fixed to the bottom corner and
