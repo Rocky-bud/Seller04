@@ -3,7 +3,7 @@ import { useShop } from '../contexts/ShopContext';
 import { fetchCustomers } from '../hooks/useApi';
 import { formatDate } from '../utils/helpers';
 import {
-  Users, Send, Instagram, RefreshCw, ShoppingBag, Search,
+  Users, Send, Camera as Instagram, RefreshCw, ShoppingBag, Search,
   Crown, MessageCircle, UserCircle, Phone
 } from 'lucide-react';
 
