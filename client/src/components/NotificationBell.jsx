@@ -1,6 +1,6 @@
 import { useState, useRef, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { Bell, Check, Trash2, X, Send, Instagram } from 'lucide-react';
+import { Bell, Check, Trash2, X, Send, Camera as Instagram } from 'lucide-react';
 import { useNotificationCenter } from '../contexts/NotificationContext';
 import { formatDate } from '../utils/helpers';
 
